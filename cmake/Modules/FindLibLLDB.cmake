@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if (UNIX)
     macro( FIND_LLDB_OFFICIAL )
         ## Locate the official packages

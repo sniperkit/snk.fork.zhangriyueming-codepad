@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(UNIX AND NOT APPLE)
     find_library(SQLITE3_LIBRARY
                  NAMES libsqlite3.so

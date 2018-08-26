@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # CodeLite plugin function.
 # Usage:
 #

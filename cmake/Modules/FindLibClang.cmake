@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if (UNIX)
     macro( FIND_LIBCLANG_OFFICIAL )
         find_library(LIBCLANG_T
